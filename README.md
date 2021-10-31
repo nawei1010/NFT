@@ -31,7 +31,7 @@
 
 然后复制到client/src/getWeb3.js文件，将第6行的address变量的值设置为刚刚复制的地址
 
-![image-20211031193919003](picture\image-20211031193919003.png)
+![image-20211031193919003](picture/image-20211031193919003.png)
 
 5. 在client目录下输入npm start启动项目，然后在google浏览器中访问[http://localhost:3000](http://localhost:3000/)
 6. 登陆MetaMask，连接localhost:8545的本地网络，并且从Ganache中导入几个账户，将账户同http://localhost:3000进行连接。 然后即可使用
@@ -40,13 +40,13 @@
 
 1. 创建新的NFT
 
-   ![image-20211031194232708](picture\image-20211031194232708.png)
+   ![image-20211031194232708](picture/image-20211031194232708.png)
 
    
 
 2. 查看我的NFT
 
-   ![image-20211031194331494](picture\image-20211031194331494.png)
+   ![image-20211031194331494](picture/image-20211031194331494.png)
 
    
 
@@ -54,53 +54,53 @@
 
 3. 创建拍卖
 
-   ![image-20211031194409075](picture\image-20211031194409075.png)
+   ![image-20211031194409075](picture/image-20211031194409075.png)
 
    
 
 4. 查看所有正在拍卖的NFT
 
-   ![image-20211031194450757](picture\image-20211031194450757.png)
+   ![image-20211031194450757](picture/image-20211031194450757.png)
 
    
 
 5. 查看我的正在拍卖的NFT
 
-   ![image-20211031194520927](picture\image-20211031194520927.png)
+   ![image-20211031194520927](picture/image-20211031194520927.png)
 
    
 
 6. 查看我的投资
 
-   ![image-20211031194610793](picture\image-20211031194610793.png)
+   ![image-20211031194610793](picture/image-20211031194610793.png)
 
    
 
 7. 拍卖结束的NFT
 
-   ![image-20211031194820355](picture\image-20211031194820355.png)
+   ![image-20211031194820355](picture/image-20211031194820355.png)
 
    
 
 8. 竞拍成功的NFT
 
-   ![image-20211031194920251](picture\image-20211031194920251.png)
+   ![image-20211031194920251](picture/image-20211031194920251.png)
 
    
 
 9. 查看历史交易信息
 
-   ![image-20211031195004944](picture\image-20211031195004944.png)
+   ![image-20211031195004944](picture/image-20211031195004944.png)
 
    
 
 10. 出价最高者认领
 
-    ![image-20211031195051991](picture\image-20211031195051991.png)
+    ![image-20211031195051991](picture/image-20211031195051991.png)
 
 
 
 11. 拍卖失败后原主人认领
 
-    ![image-20211031195152800](picture\image-20211031195152800.png)
+    ![image-20211031195152800](picture/image-20211031195152800.png)
 
