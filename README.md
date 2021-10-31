@@ -27,7 +27,7 @@
 
 4. 将`truffle migrate`后的结果中的‘myNft' 中的contract address 复制，
 
-   ![image-20211031193812686](C:\Users\zhw\AppData\Roaming\Typora\typora-user-images\image-20211031193812686.png)
+   
 
 然后复制到client/src/getWeb3.js文件，将第6行的address变量的值设置为刚刚复制的地址
 
