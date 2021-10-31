@@ -4,7 +4,7 @@
 
 学号： 3190105029
 
-### 主要代码在client文件夹下，合约代码在contracts中
+### 主要代码在client/src文件夹下，合约代码为contracts/myNft.sol
 
 ### 编译环境
 
